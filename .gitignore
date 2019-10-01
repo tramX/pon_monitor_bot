@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+.idea
+*.sql
+db.sqlite3
+media/
